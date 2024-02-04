@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**A Full-Stack Developer in development.**
+
+Currently studying @ [CampusCode](https://www.campuscode.com.br/)
+
+- ⚙️ I use in a daily basis: Ruby, Rails, HTML, CSS, Bootstrap, VueJS.
+- 🗺️ Currently active on [Portfoliorrr Project](https://github.com/TreinaDev/td11-portfoliorrr)
+- ⚠️ Currently seeking my first Web Development job.
+  - Interested in hiring an overly-eager-to-learn junior dev? `ping` me!
 <!--
 **eliseuramos93/eliseuramos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
