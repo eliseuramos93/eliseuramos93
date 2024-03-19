@@ -1,24 +1,48 @@
-### Hi there 👋
+# 👋 Hi there
 
-**A Full-Stack Developer in development.**
+My name is Eliseu, I'm a web developer seeking my first job. Nice to meet you!
 
-Currently studying @ [CampusCode](https://www.campuscode.com.br/)
+I've worked for some big companies here in Brazil (such as Nubank, iugu, among others) in the Customer Experience/Support area for 6 years. Then, I've decided to change my path to become a web developer. This intro will tell you about my journey in this transition so far!
 
-- ⚙️ I use in a daily basis: Ruby, Rails, HTML, CSS, Bootstrap, VueJS.
-- 🗺️ Currently active on [Portfoliorrr Project](https://github.com/TreinaDev/td11-portfoliorrr)
-- ⚠️ Currently seeking my first Web Development job.
-  - Interested in hiring an overly-eager-to-learn junior dev? `ping` me!
-<!--
-**eliseuramos93/eliseuramos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏁 Achievements
+## Completed the [TreinaDev](https://app.campuscode.com.br/certificado/L8bH1WhMT4Xf22NdxHaCDWs8) program
+I was approved to participate in this program after passing in a basic web knowledge test and a few coding challenges in plain Ruby.
 
-Here are some ideas to get you started:
+In this course, I've build my first complex application in the [Pousadaria](https://github.com/eliseuramos93/pousadaria-app) project, in which I also had to provide some API endpoints for a VueJS application, the [Pousadaria VueJS](https://github.com/eliseuramos93/pousadaria-app-vuejs) over the course of one month. In this part of the program, the focus was learning to program using the Test-Driven Development process using RSpec to build a reliable application and work with deadlines, since we had weekly sprints with new tasks being required in each monday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After the individual project, I was approved to participate in the team project challenge. All of the approved participants were split into two squads, and each squad were responsible for building a application that had some features intertwined with the another squad's app. They were the [Portfoliorrr](https://github.com/TreinaDev/td11-portfoliorrr) and the [Cola?Bora!](https://github.com/TreinaDev/td11-cola-bora) projects. As a member of the Portfoliorrr squad, I've worked with some new dynamics I've never done before, such as Pair Programming, Feature Branch, Code Review, Daily Meetings, Sprint Reviews, Backlog Refinement and learned about new work tools, such as Bootstrap, SolidQueue, Rubocop, Simplecov, Faraday, Fakerrr, among others.
+
+## Completed the RebaseLabs challenge
+In this challenge, we had to build a simple web application for displaying test results for users using Ruby. The catch was: we weren't allowed to use Rails, so we could understand a little bit more of how Rails makes our lives much easier with its magic, and we had to use Docker containers for every single part of the application (one for the frontend, another for the backend, one for the database, and so on).
+
+I've learned how to handle myself with Docker containers, volumes, networks, Dockerfiles and Docker Compose. Learned how to handle a PostgreSQL with a Ruby application without Rails being there holding my hand, learned about Sidekiq and Redis for asynchronous processing as a option for the SolidQueue that I've learned before, and had to use some vanilla HTML, CSS and JavaScript to use the Fetch API to provide the user a Single-Page Application experience. 
+
+You can check my Rebase Labs project by [clicking here](https://github.com/eliseuramos93/rebase-labs)
+
+# 📝 My current project
+[Gaming Social Network](https://github.com/eliseuramos93/gaming-social-network)
+
+# 🧰 My tech stack
+- Ruby
+- Rails
+- Sinatra
+- HTML, CSS and JavaScript
+- VueJS
+- Bootstrap
+- Docker
+- Redis
+- Sidekiq
+- SolidQueue
+- RSpec
+- Git
+- PostgreSQL
+- SQLite
+
+# 🧑🏻‍💻 I have experience with...
+- Team collaboration
+- Pair programming
+- Code Review using GitHub
+- Agile routines (Sprint Review, Daily Meetings, Backlog Refinement, Retrospectives)
+- Test-Driven Development using RSpec
+- Providing API endpoints and consuming it using the Faraday gem
+- Remote work
