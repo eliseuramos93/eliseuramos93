@@ -47,7 +47,7 @@ You can check my Rebase Labs project by [clicking here](https://github.com/elise
 
 - Team collaboration
 - Pair programming
-- Code Review using GitHub
+- Using Pull Requests and Code Review using GitHub
 - Agile routines (Sprint Review, Daily Meetings, Backlog Refinement, Retrospectives)
 - Test-Driven Development using RSpec
 - Providing API endpoints and consuming them using the Faraday gem
