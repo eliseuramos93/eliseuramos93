@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hello there
 
 My name is Eliseu, I'm a web developer seeking my first job. Nice to meet you!
 
