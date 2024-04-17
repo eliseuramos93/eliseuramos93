@@ -24,7 +24,7 @@ You can check my Rebase Labs project by [clicking here](https://github.com/elise
 
 # 📝 My current project
 
-[Gaming Social Network](https://github.com/eliseuramos93/gaming-social-network)
+TBD
 
 # 🧰 My tech stack
 
