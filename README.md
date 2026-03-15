@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm Eliseu!</h1>
-<h3 align="center">Gamer, coffee drinker, pizza eater, dog walker and backend developer on business hours.</h3>
+## eliseu.md
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliseuramos93&label=Profile%20views&color=0e75b6&style=flat" alt="eliseuramos93" /> </p>
+### building to learn
+- [rustlings](https://github.com/eliseuramos93/rustlings), to learn rust
+  - maybe will do some leetcode on rust, perhaps?
+- [devlog](https://github.com/eliseuramos93/devlog), a rust-based dev blog to apply my learnings from rustlings
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliseuramos93" alt="eliseuramos93" /></a> </p>
+### on my backlog, to learn
+- duckpiler, a compiler written in rust
+- nudefinancials, a credit card invoice consolidation service in clojure
+- yasep, yet another snes emulator project in rust
+- xuiter, a rails monolith + nestjs service for fan out on write twitter-clone, to learn how to code w/ claude in the driver seat using tdd
+- gym leader kingdom, a pokemon showdown inspired game, based on [pokemon stadium's gym leader castle](https://www.youtube.com/watch?v=3bGVNB_uF5E), but with every generation available
 
-<h3 align="left">My toolbox so far:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/></a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p>
+### built/building to earn
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseuramos93&show_icons=true&locale=en&layout=compact" alt="eliseuramos93" /></p>
+- backend developer @ totalpass (since may/2024)
+    - rails api monolith, where lives a corporate wellness benefit app logic used by millions of users in Brazil;
+    - nestjs service for facial recognition and user validation, w/ external provider, with millions of users validated in one year;
+    - rails api-only bff, to orchestrate the mobile client-side contracts w/ multiple services and deliver an awesome app experience;
+    - using amazon sns/sqs for event-driven background processing, push notifications, etc.
+    - postgres and dynamodb as main databases in day-to-day work, and a little bit of mongo on the side
+    - using redis and memcached to write caching solutions;
+    - big fan of feature flags (using flipper and unleash, and even some env flag abstractions when no other tool is available)
+    - datadog for logs, tracing, alerts, monitoring, dashboards, etc.
+    - github actions for deploys, ci/cd and stuff
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliseuramos93&" alt="eliseuramos93" /></p>
+### contact me
+- [linkedin](https://www.linkedin.com/in/eliseu-ramos/)
+    - unless you're selling pizza, please DO NOT DM me to sell stuff. 
+- [steam](https://steamcommunity.com/id/duckvader93/)
+    - aoe2 only, aiming to become a low elo legend. please do not rush me
