@@ -29,4 +29,4 @@
 - [linkedin](https://www.linkedin.com/in/eliseu-ramos/)
     - unless you're selling pizza, please DO NOT DM me to sell stuff. 
 - [steam](https://steamcommunity.com/id/duckvader93/)
-    - aoe2 only, aiming to become a low elo legend. please do not rush me
+    - aoe2 only, aiming to become a low elo legend. please do not rush me before Imperial Age.
