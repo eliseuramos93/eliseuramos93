@@ -1,21 +1,22 @@
 # eliseu.md
 
 ## what I am building to learn
-### current
-- [rustlings](https://github.com/eliseuramos93/rustlings), to learn rust
-  - maybe will do some leetcode on rust, perhaps?
+### in development as of now
+- [rustlings](https://github.com/eliseuramos93/rustlings), exercises to learn rust
 - [devlog](https://github.com/eliseuramos93/devlog), a rust-based dev blog to apply my learnings from rustlings
+  - temporarily on hold while I hone my rustacean claws in rustlings
 
-### on my backlog to learn
-- duckpiler, a compiler written in rust
-- nudefinancials, a credit card invoice consolidation service in clojure
-- yasep, yet another snes emulator project in rust
+### learning project backlog
+> _feel free to use any of them as inspiration for your personal projects, but please at least send me a pizza as a ty_.
+
+- duckpiler, a compiler written in rust that compiles ruby code to c++
+- nudefinancials, a credit card invoice consolidation service in clojure with immutable transaction data
+- yasep, yet another snes emulator project in rust in which I shall beat The Legend of Zelda: A Link to the Past
 - xuiter, a rails monolith + nestjs service for fan out on write twitter-clone, to learn how to code w/ claude in the driver seat using tdd
 - gym leader kingdom, a pokemon showdown inspired game, based on [pokemon stadium's gym leader castle](https://www.youtube.com/watch?v=3bGVNB_uF5E), but with every generation available
 - 100% leetcode using rust and/or c++ and upload it as an achievement on my steam account somehow
 
 ## what I am building to earn
-
 - backend developer @ totalpass (since may/2024)
     - rails api monolith, where lives a corporate wellness benefit app logic used by millions of users in Brazil;
     - nestjs service for facial recognition and user validation, w/ external provider, with millions of users validated in one year;
@@ -28,7 +29,7 @@
     - github actions for deploys, ci/cd and stuff
 
 ## tech stack
-### what I use on a daily basis (mostly for work)
+### what I use daily
 - ruby on rails (6.x, 7.x)
 - typescript + nestjs
 - aws sns + sqs
@@ -43,7 +44,7 @@
 - terraform (to ship some queues/topics/databases on aws)
 - k8s
 
-### what I am studying now
+### what I am learning now
 - rust
   - tokio
   - cargo
@@ -51,7 +52,7 @@
 - neovim
 - pair programming with claude code
 
-### what's in my learning backlog (expected at least play with in the next 365 days)
+### what's on my learning radar
 - c++
 - clojure (functional programming, immutable data, etc.)
 - kafka
