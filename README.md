@@ -21,7 +21,7 @@
     - nestjs service for facial recognition and user validation, w/ external provider, with millions of users validated in one year;
     - rails api-only bff, to orchestrate the mobile client-side contracts w/ multiple services and deliver an awesome app experience;
     - using amazon sns/sqs for event-driven background processing, push notifications, etc.
-    - postgres and dynamodb as main databases in day-to-day work, and a little bit of mongo on the side
+    - postgres and dynamodb as main databases in daily work, and a little bit of mongo on the side
     - using redis and memcached to write caching solutions;
     - big fan of feature flags (using flipper and unleash, and even some env flag abstractions when no other tool is available)
     - datadog for logs, tracing, alerts, monitoring, dashboards, etc.
