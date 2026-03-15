@@ -31,7 +31,8 @@
 ### what I use on a daily basis (mostly for work)
 - ruby on rails (6.x, 7.x)
 - typescript + nestjs
-- aws sns + sqs for background jobs (shoryuken)
+- aws sns + sqs
+- shoryuken for background jobs on rails, [aws-sdk](https://www.npmjs.com/package/@aws-sdk/client-sqs) for background jobs in nestjs
 - redis, memcached
 - postgresql, dynamodb
 - datadog for logs, traces, alerts, etc.
